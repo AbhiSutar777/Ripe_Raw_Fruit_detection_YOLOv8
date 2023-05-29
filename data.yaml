@@ -1,0 +1,7 @@
+path : E:/yolov8_new/data
+train : E:/yolov8_new/data/train
+val : E:/yolov8_new/data/test
+# test : E:/yoloV8/data/test
+
+nc : 4
+names : ['Raw_Banana','Raw_Mango','Ripe_Banana','Ripe_Mango']
